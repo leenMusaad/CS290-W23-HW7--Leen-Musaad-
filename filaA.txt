@@ -1,3 +1,6 @@
 feature 1 with 1 bug
 feature 1 
 withbug fix
+feature 1
+withbug fix
+feature 2
